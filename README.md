@@ -158,7 +158,7 @@ dotnet run
 After running the application, open:
 
 ```text
-https://localhost:<port>/swagger
+https://localhost:7028/swagger
 ```
 
 ## Design Decisions
